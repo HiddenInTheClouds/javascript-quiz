@@ -1,3 +1,37 @@
-* {
+h1 {
   text-align: center;
+}
+
+#questionsDiv {
+  margin: 25px;
+}
+
+#wrapper {
+  position: absolute;
+  border: 1px solid blue;
+  width: 300px;
+  height: 300px;
+}
+
+#clear {
+  position: relative;
+  padding: 10px;
+  color: white;
+  text-align: center;
+}
+
+li {
+  background-color: blue;
+  font-size: 16px;
+  color: white;
+  margin-top: 10px;
+  padding: 5px 10px;
+}
+
+button {
+  border-radius: 10px;
+}
+
+#currentTime {
+  float: right;
 }
